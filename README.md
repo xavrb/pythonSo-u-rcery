@@ -1,5 +1,6 @@
 # Python So(u)rcery  
 
-A collection of scripts to make your life easier  
+A python collection of scripts to make your life easier  
+
 
 
